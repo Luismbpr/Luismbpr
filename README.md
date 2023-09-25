@@ -1,8 +1,8 @@
 
 # About me
 - Hi, I’m @Luismbpr
-- I’m interested in Data Analysis, Machine Learning, Deep Learning, and other related topics.
-- 🌱 I’m currently learning about Python, ML and Deep Learning.
+- I’m interested in Data Analysis, Data Science, Machine Learning, Deep Learning, and other related topics.
+- 🌱 I’m currently learning more Data Science, Big Data topics, and improving on what I already know by doing projects.
 - 📫 How to reach me. You can reach me via Github messages at the moment.
 
 <!---
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Other Information
 
-*No more information at the moment.*
+Feel free to contact me for any type of inquiry.
 
 
 ***
