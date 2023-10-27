@@ -11,14 +11,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 * [About me](#about-me)
-* [Project 01](#project-01)
 * [Other Information](#other-information)
 
 ***
-
-# Project 01
-* [Creation and Deployment of Breast Cancer Prediction Model](https://github.com/Luismbpr/cancpred01)
-* [Deployment of Breast Cancer Prediction Model](https://cancpred01.herokuapp.com/)
 
 ***
 
