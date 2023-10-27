@@ -2,7 +2,7 @@
 # About me
 - Hi, I’m @Luismbpr, an Industrial Engineer.
 - I’m interested in Data Analysis, Data Science, Machine Learning, Deep Learning, and other related topics.
-- 🌱 I’m currently learning more Data Science, Big Data topics, and improving on what I already know by doing projects.
+- 🌱 I’m currently learning more about Data Science, Big Data, and improving on what I already know.
 - 📫 How to reach me. You can reach me via Github messages at the moment.
 
 <!---
@@ -20,6 +20,8 @@ You can click the Preview link to take a look at your changes.
 ## Other Information
 
 Feel free to contact me for any type of inquiry.
+
+* [My Medium Account](https://medium.com/@luismarcelobp)
 
 
 ***
