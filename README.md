@@ -1,8 +1,7 @@
 
 # About me
-- Hi, I’m @Luismbpr, an Industrial Engineer.
-- I’m interested in Data Analysis, Data Science, Machine Learning, Deep Learning, and other related topics.
-- 🌱 I’m currently learning more about Data Science, Big Data, and improving on what I already know.
+- Hi, I’m @Luismbpr, an Industrial Engineer, Data Scientist with a wide variety of interests.
+- I’m focused in Data Analysis, Data Science, Machine Learning, Deep Learning, and other related topics.
 - 📫 How to reach me. You can reach me via Github messages at the moment.
 
 <!---
