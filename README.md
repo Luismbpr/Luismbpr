@@ -16,7 +16,7 @@
 
 Feel free to contact me for any type of inquiry.
 
-* [My Medium Account](https://medium.com/@luismarcelobp)
+[Personal Website](https://luimbp.vercel.app/)
 
 
 ***
